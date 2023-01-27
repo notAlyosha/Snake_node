@@ -128,8 +128,8 @@ export const snakeColor: color[] = [
 ]
 
 export const appleColor: color = {
-	r: 255,
-	g: 200,
-	b: 55,
-	a: 150,
+	r: 239,
+	g: 42,
+	b: 42,
+	a: 255,
 }
